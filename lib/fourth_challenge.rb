@@ -19,7 +19,6 @@ def fourth_challenge
       ]
    }
 }
-
-  
-
+end
+end
 end
